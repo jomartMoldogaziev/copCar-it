@@ -7,7 +7,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-
+    background-color: #050505;
     overflow: hidden;
 }
 
